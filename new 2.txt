@@ -1,3 +1,4 @@
 #checj=king the functonality iof git stash 
 # lets see save or not
+#try new srash 2
 #new changea fter stash creation
