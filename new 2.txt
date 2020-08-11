@@ -1,2 +1,3 @@
 #checj=king the functonality iof git stash 
 # lets see save or not
+#new changea fter stash creation
